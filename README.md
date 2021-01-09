@@ -34,5 +34,10 @@ def iseven(n):
   else:
     print("odd")
 
-
 ```
+s.no|name|emailid
+----|----|-------
+1|keerthi|sri@gmail.com
+2|deepika|jaya@gmail.com
+
+:smiling_face_with_three_hearts:
